@@ -6,7 +6,7 @@
 
 ## 进入首页
 
-https://weui.tech/
+http://weui.tech/
 
 ## 文档资料
 
